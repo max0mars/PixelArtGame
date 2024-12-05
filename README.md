@@ -1,4 +1,4 @@
-# PixelArt
+# PixelArtGame
 
 
 A simple Pixel Art game coded in Java.

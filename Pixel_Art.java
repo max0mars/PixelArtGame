@@ -9,7 +9,6 @@ import javax.swing.*;
 
 /***************************
 *@author: Max Marsland
-*@dueDate: 2020-12-11
 *@description:  
 *	This code allows users to create drawings on a 15x15 grid.
 *	The user can either draw from scratch or pick an outline.

@@ -1,6 +1,9 @@
 # PixelArtGame
 
 
-A simple Pixel Art game coded in Java.
-When run creates two windows, a black canvas to draw on and a palette to select colors. 
-Each of the colors has a coresponding number. On the palatte, you will find a few presets that will fill the canvas with numbers to help guide you, or a clear button to clear the canvas.
+Pixel Art Drawing Tool
+
+Designed and implemented a Java-based interactive application enabling users to create pixel art on a 15x15 grid.
+Developed functionality for users to draw custom designs or utilize pre-defined outlines (e.g., smiley face, tree, watermelon).
+Built an intuitive graphical user interface using Java Swing, including a customizable color palette, drawing tools, and a reset feature.
+Demonstrated strong skills in Java programming, GUI development, and user interaction design.
